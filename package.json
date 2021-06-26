@@ -1,6 +1,7 @@
 {
   "name": "@unhandled_exception/learnstorybook-design-system-template",
   "version": "0.1.0",
+  "private": false,
   "main": "build/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
